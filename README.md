@@ -1,6 +1,6 @@
 # AI Security Scanner for Python
 
-An AI-powered static analysis tool that scans Python code for security 
+A CLI tool that scans Python code for security 
 vulnerabilities using Google's Gemini models, going beyond traditional 
 pattern-matching scanners.
 
