@@ -4,6 +4,11 @@ A CLI tool that scans Python code for security
 vulnerabilities using Google's Gemini models, going beyond traditional 
 pattern-matching scanners.
 
+## Architectural Design
+
+<img width="3106" height="839" alt="image" src="https://github.com/user-attachments/assets/6765f450-0657-482c-a260-8c7d3754519d" />
+
+
 ## Why this is different
 
 Most existing tools (Bandit, Semgrep) flag code based on fixed rules — 
